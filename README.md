@@ -1,2 +1,2 @@
 # Heroku
-Prediction of sales achieved  by sales person using linear regression model
+ Using linear regression model Predicting sales achieved  by sales person
